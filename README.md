@@ -68,20 +68,6 @@ The application uses the **SSD MobileNet** model, a fast and efficient deep lear
 
 For a complete list of detected object classes, please refer to the `labels.txt` file included in the model metadata.
 
----
-
-## Performance Metrics
-
-- **Detection Accuracy**:
-  - Precision: 89%
-  - Recall: 85%
-  - Mean Average Precision (mAP): 0.87
-
-- **Inference Speed**: The application processes each frame in approximately **30 milliseconds**, making it suitable for real-time use.
-
-- **Resource Usage**:
-  - Average CPU Usage: 40%
-  - Average Memory Usage: 200MB
 
 ---
 
